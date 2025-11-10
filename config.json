@@ -1,0 +1,8 @@
+{
+  "account": "Commercial Estimator",
+  "sender_domain": "planhub.com",
+  "senders": ["projectupdate@planhub.com", "no-reply@planhub.com"],
+  "ollama_host": "http://localhost:11434",
+  "model": "gemma2:9b-instruct-q4",
+  "dom_delay_ms": 800
+}

@@ -1,0 +1,26 @@
+# Ignore config folder (contains sensitive API keys and settings)
+config/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+email_env/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Email data (if sensitive)
+email_output.json
+
+# Logs
+*.log

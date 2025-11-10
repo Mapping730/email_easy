@@ -1,0 +1,6 @@
+{
+  "sender": "transmittals@isqftmail.com",
+  "account": "Commercial Estimator",
+  "ollama_host": "http://localhost:11434",
+  "model": "gemma3:12b"
+}
